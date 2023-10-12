@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weather.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.weather.app-mergeDebugResources-12:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\GSHANTIL\\Downloads\\apptest\\youtube-recreated\\fluttterweatherv1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
